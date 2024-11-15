@@ -36,8 +36,8 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone [Link](https://github.com/visak14/manuac.git)
-cd manuac
+git clone [Link](https://github.com/visak14/maunfac)
+cd maunfac
 
 
 ### 2. Install Dependencies
